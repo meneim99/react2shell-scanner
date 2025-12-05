@@ -98,6 +98,12 @@ python3 scanner.py -u https://example.com --waf-bypass
 --waf-bypass-size Size of junk data in KB (default: 128)
 ```
 
+## Credits
+
+- Assetnote Security Research Team - [Adam Kues, Tomais Williamson, Dylan Pindur, Patrik Grobshäuser, Shubham Shah](https://x.com/assetnote)
+- [xEHLE_](https://x.com/xEHLE_) - RCE output reflection in resp header
+- [Nagli](https://x.com/galnagli)
+
 ## Output
 
 Results are printed to the terminal. When using `-o`, vulnerable hosts are saved to a JSON file containing the full HTTP request and response for verification.
